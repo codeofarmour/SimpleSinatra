@@ -1,0 +1,11 @@
+---
+1: !ruby/object:Movie
+  title: Swamp Thing
+  director: Wes Craven
+  year: '1982'
+  id: 1
+2: !ruby/object:Movie
+  title: Shaun of the Dead
+  director: Edgar Wright
+  year: '2004'
+  id: 2
