@@ -1,0 +1,9 @@
+---
+Night of the Comet: !ruby/object:Movie
+  title: Night of the Comet
+  director: Thom Eberhardt
+  year: 1984
+Deadly Friend: !ruby/object:Movie
+  title: Deadly Friend
+  director: Wes Craven
+  year: 1986
